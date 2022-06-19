@@ -9,9 +9,11 @@ Publicly available images have been published as:
 * 16 channel multi-spectral images in the 400-1000nm range
 
 <p align="center">
-    ![Sample images form the ARAD 1K dataset](https://user-images.githubusercontent.com/571510/174484922-1b8ad7d5-4f84-496f-8fcd-1a237f8b43d5.png)<br>
+  <img width="500px" src="https://user-images.githubusercontent.com/571510/174484922-1b8ad7d5-4f84-496f-8fcd-1a237f8b43d5.png" alt="Sample images form the ARAD 1K dataset"><br>
     Sample images form the ARAD 1K dataset
 </p>
+    
+    
 
 Downloads are currently available via 
 
